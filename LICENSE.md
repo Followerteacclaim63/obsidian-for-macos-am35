@@ -1,4 +1,4 @@
-#  
+#  Obsidian for macOS professional Plugin: note encryption & markdown support is the best Obsidian for macOS plugin, featuring note encryption and markdown support. Safe, efficient,
 
 
 
